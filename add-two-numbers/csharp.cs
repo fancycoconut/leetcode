@@ -23,19 +23,27 @@ public class Solution {
     private ListNode ConvertToListNode(Queue<int> queue)
     {
         ListNode? node = null;
+        var stack = new Stack<int>();
+
         while (queue.Any())
         {
             var val = queue.Dequeue();
             Console.WriteLine(val);
-            
+            stack.Push(val);
+        }
+
+        while (stack.Any())
+        {
+            var val = stack.Pop();
             if (node is null)
             {
                 node = new ListNode(val);
             }
-            else 
+            else
             {
                 var newNode = new ListNode(val);
-                node.next = newNode;
+                newNode.next = node;
+                node = newNode;
             }
         }
 
