@@ -2,7 +2,7 @@
 Leetcode problems and solutions
 
 ## Leetcode Problems
-| Status | Problem | Difficulty | Solution |
+| Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
 | :white_check_mark: | 1. Two Sum | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum) |
 | :white_check_mark: | 2. Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
@@ -14,13 +14,13 @@ Leetcode problems and solutions
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 
-## Neetcode Problems
+## Neetcode 150
 
 ### Arrays & Hashing
 
-| Status | Problem | Difficulty | Solution |
+| Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
-| :white_check_mark: | Contains Duplicate | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate/description.md) |
+| :white_check_mark: | Contains Duplicate | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | Valid Anagram | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | Two Sum | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum) |
 | :white_check_mark: | Group Anagrams | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
