@@ -20,4 +20,10 @@ Leetcode problems and solutions
 
 | Status | Problem | Difficulty | Solution |
 | ------ | ------- | ---------- | -------- |
-| :white_check_mark: | Contains Duplicate | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/neetcode/arrays-and-hashing/contains-duplicate) |
+| :white_check_mark: | Contains Duplicate | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/leetcode/contains-duplicate) |
+| :white_check_mark: | Valid Anagram | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/leetcode/valid-anagram) |
+| :white_check_mark: | Two Sum | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/leetcode/two-sum) |
+| :white_check_mark: | Group Anagrams | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/leetcode/group-anagrams) |
+
+### Binary Search
+
