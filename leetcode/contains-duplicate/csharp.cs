@@ -1,15 +1,12 @@
 public class Solution {
+    public bool HasDuplicate(int[] nums) {
+        var map = new HashSet<int>();
 
-    public bool ContainsDuplicate(int[] nums) {
-        var map = new Dictionary<int, int>();
-        foreach (var num in nums)
+        for (var i = 0; i < nums.Length; i++)
         {
-            if (map.ContainsKey(num))
-            {
-                return true;
-            }
-
-            map[num] = 1;
+            var num = nums[i];
+            if (map.Contains(num)) return true;
+            map.Add(num);
         }
 
         return false;
