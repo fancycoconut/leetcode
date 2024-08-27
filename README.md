@@ -1,5 +1,6 @@
 # leetcode
-Leetcode problems and solutions
+
+Repository for leetcode problems and solutions.
 
 ## Leetcode Problems
 | Status | Problem | Difficulty | Source |
