@@ -15,6 +15,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
+| :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
@@ -31,6 +32,12 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | Valid Anagram | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | Two Sum | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum) |
 | :white_check_mark: | Group Anagrams | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
+
+### Two Pointers
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | -------- |
+| :white_check_mark: | Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 
 ### Sliding Window
 
