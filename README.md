@@ -19,6 +19,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
+| :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
@@ -52,3 +53,9 @@ Repository for leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
 | :white_check_mark: | Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
+
+### Trees
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | -------- |
+| :white_check_mark: | Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
