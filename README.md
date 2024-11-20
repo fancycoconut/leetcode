@@ -15,6 +15,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 13. Roman to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/roman-to-integer) |
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
+| :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
@@ -59,3 +60,4 @@ Repository for leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
 | :white_check_mark: | Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
+| :white_check_mark: | Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
