@@ -25,6 +25,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
+| :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
 
 ## Neetcode 150
 
