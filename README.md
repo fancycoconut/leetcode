@@ -24,6 +24,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
+| :white_check_mark: | 271. Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
@@ -39,6 +40,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | Valid Anagram | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | Two Sum | :green_heart: Easy |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum) |
 | :white_check_mark: | Group Anagrams | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
+| :white_check_mark: | Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
 
 ### Two Pointers
 
