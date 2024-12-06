@@ -31,6 +31,7 @@ Repository for leetcode problems and solutions.
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
+| :white_check_mark: | 2703. Return Length of Arguments Passed | :green_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/return-length-of-arguments-passed) |
 
 ## Neetcode 150
 
@@ -68,6 +69,7 @@ Repository for leetcode problems and solutions.
 
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
+| :white_check_mark: | Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 
 ### Trees
