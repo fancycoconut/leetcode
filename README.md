@@ -19,6 +19,7 @@ Solved leetcode problems and solutions [list](https://github.com/fancycoconut/le
 | :white_check_mark: | Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :white_check_mark: | Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
 | :white_check_mark: | Product of Array Except Self | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/product-of-array-except-self) |
+| :white_check_mark: | Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
 
 ### Two Pointers
 
