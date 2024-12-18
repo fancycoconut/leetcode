@@ -26,6 +26,7 @@ Solved leetcode problems and solutions [list](https://github.com/fancycoconut/le
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | -------- |
 | :white_check_mark: | Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
+| :white_check_mark: | Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
 | :white_check_mark: | Container With Most Water | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/container-with-most-water) |
 
 ### Sliding Window
