@@ -21,6 +21,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 70. Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/climbing-stairs) |
+| :white_check_mark: | 74. Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
@@ -86,6 +87,7 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
+| :white_check_mark: | Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 
 ### Linked list
 
