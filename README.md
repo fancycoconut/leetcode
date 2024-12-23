@@ -41,6 +41,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
+| :white_check_mark: | 383. Ransom Note | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/ransom-note) |
 | :white_check_mark: | 442. Find All Duplicates in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-duplicates-in-an-array) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
