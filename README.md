@@ -19,6 +19,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 13. Roman to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/roman-to-integer) |
 | :white_check_mark: | 14. Longest Common Prefix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-common-prefix) |
 | :white_check_mark: | 20. Valid Parentheses | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-parentheses) |
+| :white_check_mark: | 26. Remove Duplicates from Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) |
 | :white_check_mark: | 27. Remove Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-element) |
 | :white_check_mark: | 28. Find the Index of the First Occurrence in a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | :white_check_mark: | 29. Divide Two Integers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-two-integers) |
