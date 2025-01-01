@@ -130,3 +130,9 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
+
+### Math & Geometry
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
