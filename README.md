@@ -25,6 +25,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 27. Remove Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-element) |
 | :white_check_mark: | 28. Find the Index of the First Occurrence in a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | :white_check_mark: | 29. Divide Two Integers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-two-integers) |
+| :white_check_mark: | 36. Valid Sudoku | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-sudoku) |
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 56. Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
@@ -74,6 +75,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :white_check_mark: | Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
 | :white_check_mark: | Product of Array Except Self | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/product-of-array-except-self) |
+| :white_check_mark: | Valid Sudoku | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-sudoku) |
 | :white_check_mark: | Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
 
 ### Two Pointers
