@@ -18,7 +18,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 12. Integer to Roman | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/integer-to-roman) |
 | :white_check_mark: | 13. Roman to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/roman-to-integer) |
 | :white_check_mark: | 14. Longest Common Prefix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-common-prefix) |
-| :construction_worker: | 15. 3Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/3sum) |
+| :white_check_mark: | 15. 3Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/3sum) |
 | :white_check_mark: | 20. Valid Parentheses | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-parentheses) |
 | :white_check_mark: | 21. Merge Two Sorted Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-two-sorted-lists) |
 | :white_check_mark: | 26. Remove Duplicates from Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) |
@@ -84,7 +84,7 @@ Solved leetcode problems and solutions.
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
-| :construction_worker: | 3Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/3sum) |
+| :white_check_mark: | 3Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/3sum) |
 | :white_check_mark: | Container With Most Water | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/container-with-most-water) |
 
 ### Sliding Window
