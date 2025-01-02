@@ -45,6 +45,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 206. Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
+| :white_check_mark: | 228. Summary Ranges | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/summary-ranges) |
 | :white_check_mark: | 238. Product of Array Except Self | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/product-of-array-except-self) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 271. Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
