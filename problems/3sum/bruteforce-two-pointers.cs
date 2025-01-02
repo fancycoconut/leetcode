@@ -5,21 +5,24 @@ public class Solution {
         var triplets = new HashSet<(int, int, int)>();
         for (var i = 0; i < nums.Length; i++)
         {
-            var num = nums[i];
-            var target = num >= 0
-                ? num * -1
-                : Math.Abs(num);
+            var target = nums[i] >= 0
+                ? nums[i] * -1
+                : Math.Abs(nums[i]);
 
-            var twoSumResults = TwoSum(nums[(i+1)..], target);
-            
-            var result = num + twoSumResults.Item1 + twoSumResults.Item2;
-            if (result == 0)
+            var results = TwoSum(nums[(i+1)..], target);
+            foreach (var result in results)
             {
-                triplets.Add((num, twoSumResults.Item1, twoSumResults.Item2));
-                continue;
+                //Console.WriteLine($"Result: ({result.Item1}, {result.Item2})");
+                var sum = nums[i] + result.Item1 + result.Item2;
+                if (sum != 0) continue;
+                var temp = new int[] { nums[i], result.Item1, result.Item2 };
+                Array.Sort(temp);
+                triplets.Add((temp[0], temp[1], temp[2]));
             }
+
         }
 
+    
         var output = new List<IList<int>>();
 
         foreach (var triplet in triplets)
@@ -34,9 +37,9 @@ public class Solution {
         return output;
     }
 
-    private (int, int) TwoSum(int[] sums, int target)
+    private List<(int, int)> TwoSum(int[] sums, int target)
     {
-        //var output = new List<(int, int)>();
+        var output = new HashSet<(int, int)>();
 
         var left = 0;
         var right = sums.Length - 1;
@@ -45,7 +48,10 @@ public class Solution {
             var sum = sums[left] + sums[right];
             if (sum == target)
             {
-                return (sums[left], sums[right]);
+                output.Add((sums[left], sums[right]));
+                left++;
+                right--;
+                continue;
             }
 
             if (sum < target)
@@ -58,6 +64,6 @@ public class Solution {
             }
         }
 
-        return (255, 255);
+        return output.ToList();
     }
 }
