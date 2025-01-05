@@ -28,6 +28,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 29. Divide Two Integers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-two-integers) |
 | :white_check_mark: | 36. Valid Sudoku | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-sudoku) |
 | :white_check_mark: | 39. Combination Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum) |
+| :white_check_mark: | 40. Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 56. Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
@@ -136,6 +137,7 @@ Solved leetcode problems and solutions.
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
 | :white_check_mark: | Combination Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum) |
+| :white_check_mark: | Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
 
 ### 1-D Dynamic Programming
 
