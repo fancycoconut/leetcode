@@ -39,6 +39,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 74. Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | 78. Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
 | :construction: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
+| :white_check_mark: | 83. Remove Duplicates from Sorted List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) |
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
