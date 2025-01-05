@@ -44,6 +44,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
+| :white_check_mark: | 141. Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
 | :white_check_mark: | 155. Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
 | :white_check_mark: | 167. Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
@@ -121,6 +122,7 @@ Solved leetcode problems and solutions.
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
 | :white_check_mark: | Merge Two Sorted Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-two-sorted-lists) |
+| :white_check_mark: | Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
 | :white_check_mark: | Remove Nth Node From End of List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-nth-node-from-end-of-list) |
 | :white_check_mark: | Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
