@@ -46,6 +46,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
+| :white_check_mark: | 136. Single Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/single-number) |
 | :white_check_mark: | 141. Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
 | :white_check_mark: | 155. Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
@@ -169,3 +170,9 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
+
+### Bit Manipulation
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Single Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/single-number) |
