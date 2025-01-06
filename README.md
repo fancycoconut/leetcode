@@ -15,6 +15,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 7. Reverse Integer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reserse-integer) |
 | :white_check_mark: | 8. String to Integer (atoi) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-to-integer-atoi) |
 | :white_check_mark: | 9. Palindrome Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/palindrome-number) |
+| :construction: | 10. Regular Expression Matching | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/regular-expression-matching) |
 | :white_check_mark: | 11. Container With Most Water | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/container-with-most-water) |
 | :white_check_mark: | 12. Integer to Roman | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/integer-to-roman) |
 | :white_check_mark: | 13. Roman to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/roman-to-integer) |
@@ -149,6 +150,12 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/climbing-stairs) |
+
+### 2-D Dynamic Programming
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :construction: | Regular Expression Matching | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/regular-expression-matching) |
 
 ### Intervals
 
