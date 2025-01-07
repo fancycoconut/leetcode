@@ -69,6 +69,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 442. Find All Duplicates in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-duplicates-in-an-array) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
+| :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
 | :white_check_mark: | 2315. Count Asterisks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-asterisks) |
