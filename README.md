@@ -55,6 +55,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 167. Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
+| :white_check_mark: | 200. Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
 | :white_check_mark: | 206. Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
@@ -152,6 +153,12 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
 | :white_check_mark: | Permutations | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutations) |
 | :white_check_mark: | Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
+
+### Graphs
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
 
 ### 1-D Dynamic Programming
 
