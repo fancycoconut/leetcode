@@ -3,6 +3,8 @@ public class Solution {
         var subset = new List<int>();
         var results = new List<IList<int>>();
 
+        Array.Sort(nums);
+
         Backtrack(0, nums, subset, results);
 
         return results;
