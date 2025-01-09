@@ -76,6 +76,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
+| :white_check_mark: | 2185. Counting Words With a Given Prefix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-words-with-a-given-prefix) |
 | :white_check_mark: | 2315. Count Asterisks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-asterisks) |
 | :white_check_mark: | 2703. Return Length of Arguments Passed | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/return-length-of-arguments-passed) |
 | :white_check_mark: | 2796. Repeat String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/repeat-string) |
