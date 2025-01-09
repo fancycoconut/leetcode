@@ -66,6 +66,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
+| :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
 | :white_check_mark: | 383. Ransom Note | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/ransom-note) |
 | :white_check_mark: | 392. Is Subsequence | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/is-subsequence) |
 | :white_check_mark: | 409. Longest Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-palindrome) |
