@@ -160,6 +160,7 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
+| :white_check_mark: | Max Area of Island | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-area-of-island) |
 
 ### 1-D Dynamic Programming
 
