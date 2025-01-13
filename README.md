@@ -49,6 +49,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
 | :white_check_mark: | 136. Single Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/single-number) |
+| :white_check_mark: | 138. Copy List with Random Pointer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/copy-list-with-random-pointer) |
 | :white_check_mark: | 141. Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
 | :white_check_mark: | 143. Reorder List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reorder-list) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
@@ -142,6 +143,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
 | :white_check_mark: | Reorder List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reorder-list) |
 | :white_check_mark: | Remove Nth Node From End of List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-nth-node-from-end-of-list) |
+| :white_check_mark: | Copy List with Random Pointer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/copy-list-with-random-pointer) |
 | :white_check_mark: | Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 
