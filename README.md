@@ -28,6 +28,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 27. Remove Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-element) |
 | :white_check_mark: | 28. Find the Index of the First Occurrence in a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-index-of-the-first-occurrence-in-a-string) |
 | :white_check_mark: | 29. Divide Two Integers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-two-integers) |
+| :white_check_mark: | 34. Find First and Last Position of Element in Sorted Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-first-and-last-position-of-element-in-sorted-array) |
 | :white_check_mark: | 36. Valid Sudoku | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-sudoku) |
 | :white_check_mark: | 39. Combination Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum) |
 | :white_check_mark: | 40. Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
