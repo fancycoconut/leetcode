@@ -1,3 +1,4 @@
+// This is a O(N) solution
 public class Solution {
     public int[] SearchRange(int[] nums, int target) {
         if (nums.Length == 0) return new int[] { -1, -1 };
