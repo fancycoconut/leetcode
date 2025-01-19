@@ -68,6 +68,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 238. Product of Array Except Self | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/product-of-array-except-self) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 271. Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
+| :white_check_mark: | 283. Move Zeroes | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/move-zeroes) |
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 290. Word Pattern | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-pattern) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
