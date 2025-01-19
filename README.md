@@ -183,6 +183,7 @@ Solved leetcode problems and solutions.
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/climbing-stairs) |
+| :white_check_mark: | Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
 
 ### 2-D Dynamic Programming
 
