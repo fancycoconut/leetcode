@@ -55,6 +55,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 143. Reorder List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reorder-list) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
 | :white_check_mark: | 155. Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
+| :white_check_mark: | 160. Intersection of Two Linked Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/intersection-of-two-linked-lists) |
 | :white_check_mark: | 167. Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
