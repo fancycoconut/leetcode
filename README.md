@@ -59,6 +59,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
 | :white_check_mark: | 200. Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
+| :white_check_mark: | 202. Happy Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/happy-number) |
 | :white_check_mark: | 205. Isomorphic Strings | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/isomorphic-strings) |
 | :white_check_mark: | 206. Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
@@ -202,6 +203,7 @@ Solved leetcode problems and solutions.
 
 | Status | Problem | Difficulty | Source |
 | ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Happy Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/happy-number) |
 | :white_check_mark: | Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
 
 ### Bit Manipulation
