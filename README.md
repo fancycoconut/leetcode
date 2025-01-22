@@ -45,6 +45,7 @@ Solved leetcode problems and solutions.
 | :construction: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
 | :white_check_mark: | 83. Remove Duplicates from Sorted List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) |
 | :white_check_mark: | 90. Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
+| :white_check_mark: | 100. Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
@@ -166,6 +167,7 @@ Solved leetcode problems and solutions.
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
+| :white_check_mark: | Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
 
 ### Backtracking
 
