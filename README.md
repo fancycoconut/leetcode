@@ -77,6 +77,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 290. Word Pattern | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-pattern) |
 | :white_check_mark: | 326. Power of Three | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-three) |
+| :white_check_mark: | 342. Power of Four | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-four) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
