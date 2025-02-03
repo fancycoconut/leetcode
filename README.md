@@ -69,6 +69,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 203. Remove Linked List Elements | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-linked-list-elements) |
 | :white_check_mark: | 205. Isomorphic Strings | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/isomorphic-strings) |
 | :white_check_mark: | 206. Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
+| :white_check_mark: | 215. Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 219. Contains Duplicate II | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate-ii) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
@@ -176,6 +177,12 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
+
+### Heap / Priority Queue
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
 
 ### Backtracking
 
