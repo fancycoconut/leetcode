@@ -102,6 +102,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1265. Print Immutable Linked List in Reverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
+| :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
 | :white_check_mark: | 1800. Maximum Ascending Subarray Sum | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-ascending-subarray-sum) |
 | :white_check_mark: | 1910. Remove All Occurrences of a Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-occurrences-of-a-substring) |
