@@ -80,6 +80,7 @@
 | :white_check_mark: | Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
 | :white_check_mark: | Permutations | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutations) |
 | :white_check_mark: | Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
+| :white_check_mark: | Letter Combinations of a Phone Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) |
 
 ## Graphs
 
