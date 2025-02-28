@@ -29,6 +29,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 19. Remove Nth Node From End of List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-nth-node-from-end-of-list) |
 | :white_check_mark: | 20. Valid Parentheses | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-parentheses) |
 | :white_check_mark: | 21. Merge Two Sorted Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-two-sorted-lists) |
+| :white_check_mark: | 24. Swap Nodes in Pairs | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/swap-nodes-in-pairs) |
 | :white_check_mark: | 26. Remove Duplicates from Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-array) |
 | :white_check_mark: | 27. Remove Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-element) |
 | :white_check_mark: | 28. Find the Index of the First Occurrence in a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-index-of-the-first-occurrence-in-a-string) |
