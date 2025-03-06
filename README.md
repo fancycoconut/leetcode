@@ -106,7 +106,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 700. Search in a Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-in-a-binary-search-tree) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 746. Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
-| :construction: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
+| :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
 | :white_check_mark: | 1207. Unique Number of Occurrences | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/unique-number-of-occurrences) |
 | :white_check_mark: | 1265. Print Immutable Linked List in Reverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
