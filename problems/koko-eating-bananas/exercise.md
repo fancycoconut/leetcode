@@ -11,18 +11,27 @@ Return *the minimum integer* `k` *such that she can eat all the bananas within* 
 ### Example 1:
 
 ```text
+Input: piles = [1,4,3,2], h = 9
+Output: 2
+
+Explanation: With an eating rate of 2, you can eat the bananas in 6 hours. With an eating rate of 1, you would need 10 hours to eat all the bananas (which exceeds h=9), thus the minimum eating rate is 2.
+```
+
+### Example 2:
+
+```text
 Input: piles = [3,6,7,11], h = 8
 Output: 4
 ```
 
-### Example 2:
+### Example 3:
 
 ```text
 Input: piles = [30,11,23,4,20], h = 5
 Output: 30
 ```
 
-### Example 3:
+### Example 4:
 
 ```text
 Input: piles = [30,11,23,4,20], h = 6
