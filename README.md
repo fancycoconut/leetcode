@@ -46,6 +46,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 58. Length of Last Word | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/length-of-last-word) |
 | :white_check_mark: | 66. Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
 | :white_check_mark: | 67. Add Binary | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-binary) |
+| :white_check_mark: | 69. Sqrt(x) | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sqrtx) |
 | :white_check_mark: | 70. Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/climbing-stairs) |
 | :white_check_mark: | 74. Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | 78. Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
