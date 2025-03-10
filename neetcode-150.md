@@ -104,6 +104,12 @@
 | ------ | ------- | ---------- | ------ |
 | :construction: | Regular Expression Matching | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/regular-expression-matching) |
 
+## Greedy
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Maximum Subarray | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-subarray) |
+
 ## Intervals
 
 | Status | Problem | Difficulty | Source |
