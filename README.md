@@ -74,6 +74,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
 | :white_check_mark: | 175. Combine Two Tables | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combine-two-tables) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
+| :white_check_mark: | 198. House Robber | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber) |
 | :white_check_mark: | 200. Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
 | :white_check_mark: | 202. Happy Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/happy-number) |
 | :white_check_mark: | 203. Remove Linked List Elements | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-linked-list-elements) |
