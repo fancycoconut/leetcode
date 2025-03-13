@@ -123,7 +123,7 @@
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Happy Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/happy-number) |
 | :white_check_mark: | Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
-| :construction: | Pow(x, n) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/powx-n) |
+| :white_check_mark: | Pow(x, n) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/powx-n) |
 
 ## Bit Manipulation
 
