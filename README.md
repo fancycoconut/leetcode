@@ -54,6 +54,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 78. Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
 | :construction: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
 | :white_check_mark: | 83. Remove Duplicates from Sorted List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) |
+| :white_check_mark: | 88. Merge Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-sorted-array) |
 | :white_check_mark: | 90. Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
 | :white_check_mark: | 100. Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
