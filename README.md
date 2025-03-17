@@ -125,6 +125,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
 | :white_check_mark: | 2133. Check if Every Row and Column Contains All Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-every-row-and-column-contains-all-numbers) |
 | :white_check_mark: | 2185. Counting Words With a Given Prefix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-words-with-a-given-prefix) |
+| :white_check_mark: | 2206. Divide Array Into Equal Pairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-array-into-equal-pairs) |
 | :white_check_mark: | 2215. Find the Difference of Two Arrays | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-difference-of-two-arrays) |
 | :white_check_mark: | 2315. Count Asterisks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-asterisks) |
 | :white_check_mark: | 2336. Smallest Number in Infinite Set | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/smallest-number-in-infinite-set) |
