@@ -1,4 +1,5 @@
 class Solution:
+    # Using Dynamic Programming
     def canJump(self, nums: List[int]) -> bool:
         dp = [ False for _ in nums ]
         dp[-1] = True
