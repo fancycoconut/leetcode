@@ -44,6 +44,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 50. Pow(x, n) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/powx-n) |
 | :white_check_mark: | 53. Maximum Subarray | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-subarray) |
+| :white_check_mark: | 55. Jump Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/jump-game) |
 | :white_check_mark: | 56. Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
 | :white_check_mark: | 58. Length of Last Word | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/length-of-last-word) |
 | :white_check_mark: | 66. Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
