@@ -123,6 +123,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
 | :white_check_mark: | 1668. Maximum Repeating Substring | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-repeating-substring) |
+| :white_check_mark: | 1768. Merge Strings Alternately | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-strings-alternately) |
 | :white_check_mark: | 1790. Check if One String Swap Can Make Strings Equal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-one-string-swap-can-make-strings-equal) |
 | :white_check_mark: | 1800. Maximum Ascending Subarray Sum | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-ascending-subarray-sum) |
 | :white_check_mark: | 1910. Remove All Occurrences of a Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-occurrences-of-a-substring) |
