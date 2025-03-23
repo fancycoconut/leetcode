@@ -58,6 +58,7 @@
 | :white_check_mark: | Copy List with Random Pointer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/copy-list-with-random-pointer) |
 | :white_check_mark: | Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
+| :white_check_mark: | Merge k Sorted Lists | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-k-sorted-lists) |
 
 ## Trees
 
