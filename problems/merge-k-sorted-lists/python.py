@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    # Merge lists one by one approach
     # Convert them all to arrays
     # Merge all
     # Convert merged array to linked list
