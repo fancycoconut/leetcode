@@ -50,6 +50,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 56. Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
 | :white_check_mark: | 57. Insert Interval | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/insert-intervals) |
 | :white_check_mark: | 58. Length of Last Word | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/length-of-last-word) |
+| :construction: | 65. Valid Number | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-number) |
 | :white_check_mark: | 66. Plus One | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/plus-one) |
 | :white_check_mark: | 67. Add Binary | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-binary) |
 | :white_check_mark: | 69. Sqrt(x) | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sqrtx) |
