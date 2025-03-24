@@ -2,7 +2,7 @@ class Solution:
     def isNumber(self, s: str) -> bool:
         num = s.upper()
 
-        if self.validateSymbols(num) == False:
+        if self.validateSymbols(num) is False:
             return False
 
         nums = "0123456789"
@@ -11,7 +11,7 @@ class Solution:
             if n in nums:
                 hasNumbers = True
 
-        if hasNumbers == False:
+        if hasNumbers is False:
             return False
 
         return self.isInteger(num) or self.isDecimal(num)
@@ -27,11 +27,11 @@ class Solution:
         if "." in num:
             return False
 
-        if self.hasValidSigns(num) == False:
+        if self.hasValidSigns(num) is False:
             return False
-        if self.hasValidExponent(num) == False:
+        if self.hasValidExponent(num) is False:
             return False
-        
+
         return True
 
     def isDecimal(self, num: str) -> bool:
@@ -40,9 +40,9 @@ class Solution:
         if num == ".":
             return False
 
-        if self.hasValidSigns(num) == False:
+        if self.hasValidSigns(num) is False:
             return False
-        if self.hasValidExponent(num) == False:
+        if self.hasValidExponent(num) is False:
             return False
 
         return True
@@ -57,7 +57,7 @@ class Solution:
             if "+" in num and "-" in num:
                 return False
             if num.find(".") != -1 and num.find("-") > num.find("."):
-                return False            
+                return False
 
         prev = num[0]
         nums = "0123456789"
@@ -80,6 +80,9 @@ class Solution:
                 return False
             prev = n
 
+        if num.find("++") == 0:
+            return False
+
         return True
 
     def hasValidExponent(self, num: str) -> bool:
@@ -98,12 +101,20 @@ class Solution:
         hasPlus = num.find("+") > num.find("E")
         hasMinus = num.find("-") > num.find("E")
         prev = num[0]
-        nums = "+-0123456789"
+        nums = "+-0123456789."
         for n in num:
             if n == "E" and prev not in nums:
                 return False
             prev = n
-        
+
         if hasMinus and hasPlus:
             return False
+        if num.count("E") != 1:
+            return False
+
+        if num.find(".E") == 0:
+            return False
+        if num.find("+.E") == 0:
+            return False
+
         return True
