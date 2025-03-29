@@ -29,6 +29,7 @@
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | Longest Substring Without Repeating Characters | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-substring-without-repeating-characters) |
+| :white_check_mark: | Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
 
 ## Stack
 
