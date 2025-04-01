@@ -38,6 +38,7 @@
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Valid Parentheses | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-parentheses) |
 | :white_check_mark: | Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
+| :white_check_mark: | Evaluate Reverse Polish Notation | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/evaluate-reverse-polish-notation) |
 
 ## Binary Search
 
