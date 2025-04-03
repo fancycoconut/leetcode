@@ -31,6 +31,7 @@
 | :white_check_mark: | Longest Substring Without Repeating Characters | :yellow_heart: Medium |  [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-substring-without-repeating-characters) |
 | :white_check_mark: | Longest Repeating Character Replacement | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-repeating-character-replacement) |
 | :white_check_mark: | Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
+| :white_check_mark: | Minimum Window Substring | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-window-substring) |
 
 ## Stack
 
