@@ -112,6 +112,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
 | :white_check_mark: | 374. Guess Number Higher or Lower | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/guess-number-higher-or-lower) |
+| :white_check_mark: | 380. Insert Delete GetRandom O(1) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/insert-delete-getrandom-o1) |
 | :white_check_mark: | 383. Ransom Note | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/ransom-note) |
 | :white_check_mark: | 389. Find the Difference | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-difference) |
 | :white_check_mark: | 392. Is Subsequence | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/is-subsequence) |
