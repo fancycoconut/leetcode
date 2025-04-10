@@ -73,6 +73,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 136. Single Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/single-number) |
 | :white_check_mark: | 138. Copy List with Random Pointer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/copy-list-with-random-pointer) |
 | :white_check_mark: | 141. Linked List Cycle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle) |
+| :white_check_mark: | 142. Linked List Cycle II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/linked-list-cycle-ii) |
 | :white_check_mark: | 143. Reorder List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reorder-list) |
 | :white_check_mark: | 144. Binary Tree Preorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-preorder-traversal) |
 | :white_check_mark: | 145. Binary Tree Postorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-postorder-traversal) |
