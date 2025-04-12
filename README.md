@@ -133,6 +133,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
 | :white_check_mark: | 1047. Remove All Adjacent Duplicates In String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) |
 | :white_check_mark: | 1137. N-th Tribonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/n-th-tribonacci-number) |
+| :white_check_mark: | 1160. Find Words That Can Be Formed by Characters | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters) |
 | :white_check_mark: | 1207. Unique Number of Occurrences | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/unique-number-of-occurrences) |
 | :white_check_mark: | 1265. Print Immutable Linked List in Reverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
