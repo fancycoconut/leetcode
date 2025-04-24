@@ -131,6 +131,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 643. Maximum Average Subarray I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-average-subarray-i) |
 | :white_check_mark: | 695. Max Area of Island | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-area-of-island) |
 | :white_check_mark: | 700. Search in a Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-in-a-binary-search-tree) |
+| :white_check_mark: | 703. Kth Largest Element in a Stream | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-a-stream) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 746. Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
 | :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
