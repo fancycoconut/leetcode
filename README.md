@@ -16,6 +16,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2. Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | 3. Longest Substring Without Repeating Characters | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-substring-without-repeating-characters) |
 | :white_check_mark: | 4. Median of Two Sorted Arrays | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/median-of-two-sorted-arrays) |
+| :white_check_mark: | 5. Longest Palindromic Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-palindromic-substring) |
 | :white_check_mark: | 6. Zigzag Conversion | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/zigzag-conversion) |
 | :white_check_mark: | 7. Reverse Integer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reserse-integer) |
 | :white_check_mark: | 8. String to Integer (atoi) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-to-integer-atoi) |
