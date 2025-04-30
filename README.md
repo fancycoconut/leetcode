@@ -142,6 +142,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1160. Find Words That Can Be Formed by Characters | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters) |
 | :white_check_mark: | 1207. Unique Number of Occurrences | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/unique-number-of-occurrences) |
 | :white_check_mark: | 1265. Print Immutable Linked List in Reverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse) |
+| :white_check_mark: | 1295. Find Numbers with Even Number of Digits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-numbers-with-even-number-of-digits) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
