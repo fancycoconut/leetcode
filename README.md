@@ -95,6 +95,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 203. Remove Linked List Elements | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-linked-list-elements) |
 | :white_check_mark: | 205. Isomorphic Strings | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/isomorphic-strings) |
 | :white_check_mark: | 206. Reverse Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-linked-list) |
+| :white_check_mark: | 208. Implement Trie (Prefix Tree) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-trie-prefix-tree) |
 | :white_check_mark: | 209. Minimum Size Subarray Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-size-subarray-sum) |
 | :white_check_mark: | 215. Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
