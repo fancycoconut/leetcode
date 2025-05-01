@@ -92,6 +92,12 @@
 | :white_check_mark: | Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
 | :white_check_mark: | Letter Combinations of a Phone Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/letter-combinations-of-a-phone-number) |
 
+## Tries
+
+| Status | Problem | Difficulty | Source |
+| ------ | ------- | ---------- | ------ |
+| :white_check_mark: | Implement Trie (Prefix Tree) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-trie-prefix-tree) |
+
 ## Graphs
 
 | Status | Problem | Difficulty | Source |
