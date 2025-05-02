@@ -64,6 +64,7 @@
 | :white_check_mark: | Add Two Numbers | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-numbers) |
 | :white_check_mark: | Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | Merge k Sorted Lists | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-k-sorted-lists) |
+| :white_check_mark: | Reverse Nodes in k-Group | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-nodes-in-k-group) |
 
 ## Trees
 
