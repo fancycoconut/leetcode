@@ -157,6 +157,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1863. Sum of All Subset XOR Totals | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sum-of-all-subset-xor-totals) |
 | :white_check_mark: | 1876. Substrings of Size Three with Distinct Characters | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/substrings-of-size-three-with-distinct-characters) |
 | :white_check_mark: | 1910. Remove All Occurrences of a Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-occurrences-of-a-substring) |
+| :white_check_mark: | 1920. Build Array from Permutation | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/build-array-from-permutation) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
 | :white_check_mark: | 2133. Check if Every Row and Column Contains All Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-every-row-and-column-contains-all-numbers) |
 | :white_check_mark: | 2185. Counting Words With a Given Prefix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-words-with-a-given-prefix) |
