@@ -62,6 +62,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 74. Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | 75. Sort Colors | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sort-colors) |
 | :white_check_mark: | 76. Minimum Window Substring | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-window-substring) |
+| :white_check_mark: | 77. Combinations | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combinations) |
 | :white_check_mark: | 78. Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
 | :construction: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
 | :white_check_mark: | 83. Remove Duplicates from Sorted List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) |
