@@ -81,6 +81,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 143. Reorder List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reorder-list) |
 | :white_check_mark: | 144. Binary Tree Preorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-preorder-traversal) |
 | :white_check_mark: | 145. Binary Tree Postorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-postorder-traversal) |
+| :construction: | 146. LRU Cache | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lru-cache) |
 | :white_check_mark: | 150. Evaluate Reverse Polish Notation | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/evaluate-reverse-polish-notation) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
 | :white_check_mark: | 155. Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
