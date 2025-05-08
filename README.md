@@ -127,6 +127,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 389. Find the Difference | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-difference) |
 | :white_check_mark: | 392. Is Subsequence | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/is-subsequence) |
 | :white_check_mark: | 409. Longest Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-palindrome) |
+| :white_check_mark: | 412. Fizz Buzz | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/fizz-buzz) |
 | :white_check_mark: | 415. Add Strings | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-strings) |
 | :white_check_mark: | 424. Longest Repeating Character Replacement | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-repeating-character-replacement) |
 | :white_check_mark: | 442. Find All Duplicates in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-duplicates-in-an-array) |
