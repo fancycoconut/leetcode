@@ -120,6 +120,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 345. Reverse Vowels of a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-vowels-of-a-string) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
+| :white_check_mark: | 348. Design Tic-Tac-Toe | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-tic-tac-toe) |
 | :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
 | :white_check_mark: | 374. Guess Number Higher or Lower | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/guess-number-higher-or-lower) |
 | :white_check_mark: | 380. Insert Delete GetRandom O(1) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/insert-delete-getrandom-o1) |
