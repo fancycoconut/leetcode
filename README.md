@@ -115,6 +115,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 289. Game of Life | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/game-of-life) |
 | :white_check_mark: | 290. Word Pattern | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-pattern) |
+| :white_check_mark: | 303. Range Sum Query - Immutable | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/range-sum-query-immutable) |
 | :white_check_mark: | 326. Power of Three | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-three) |
 | :white_check_mark: | 342. Power of Four | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-four) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
