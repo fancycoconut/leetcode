@@ -155,6 +155,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
+| :white_check_mark: | 1550. Three Consecutive Odds | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/three-consecutive-odds) |
 | :white_check_mark: | 1668. Maximum Repeating Substring | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-repeating-substring) |
 | :white_check_mark: | 1768. Merge Strings Alternately | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-strings-alternately) |
 | :white_check_mark: | 1790. Check if One String Swap Can Make Strings Equal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-one-string-swap-can-make-strings-equal) |
