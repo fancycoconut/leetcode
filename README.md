@@ -103,6 +103,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 215. Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
 | :white_check_mark: | 219. Contains Duplicate II | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate-ii) |
+| :white_check_mark: | 225. Implement Stack using Queues | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-stack-using-queues) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | 228. Summary Ranges | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/summary-ranges) |
 | :white_check_mark: | 231. Power of Two | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-two) |
