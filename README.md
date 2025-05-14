@@ -122,6 +122,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 342. Power of Four | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-four) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 345. Reverse Vowels of a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-vowels-of-a-string) |
+| :white_check_mark: | 346. Moving Average from Data Stream | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/moving-average-from-data-stream) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :white_check_mark: | 348. Design Tic-Tac-Toe | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-tic-tac-toe) |
 | :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
