@@ -113,6 +113,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 239. Sliding Window Maximum | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sliding-window-maximum) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 271. Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
+| :white_check_mark: | 281. Zigzag Iterator | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/zigzag-iterator) |
 | :white_check_mark: | 283. Move Zeroes | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/move-zeroes) |
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 289. Game of Life | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/game-of-life) |
