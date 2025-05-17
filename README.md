@@ -150,6 +150,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 746. Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
 | :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
+| :white_check_mark: | 933. Number of Recent Calls | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-recent-calls) |
 | :white_check_mark: | 1046. Last Stone Weight | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/last-stone-weight) |
 | :white_check_mark: | 1047. Remove All Adjacent Duplicates In String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) |
 | :white_check_mark: | 1137. N-th Tribonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/n-th-tribonacci-number) |
