@@ -90,6 +90,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 160. Intersection of Two Linked Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/intersection-of-two-linked-lists) |
 | :white_check_mark: | 167. Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
+| :white_check_mark: | 170. Two Sum III - Data structure design | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-iii-data-structure-design) |
 | :white_check_mark: | 175. Combine Two Tables | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combine-two-tables) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
 | :white_check_mark: | 198. House Robber | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber) |
