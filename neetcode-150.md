@@ -82,6 +82,7 @@
 | :white_check_mark: | Kth Largest Element in a Stream | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-a-stream) |
 | :white_check_mark: | Last Stone Weight | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/last-stone-weight) |
 | :white_check_mark: | Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
+| :white_check_mark: | Design Twitter | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-twitter) |
 
 ## Backtracking
 
