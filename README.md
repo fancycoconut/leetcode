@@ -190,6 +190,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2703. Return Length of Arguments Passed | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/return-length-of-arguments-passed) |
 | :white_check_mark: | 2796. Repeat String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/repeat-string) |
 | :white_check_mark: | 2843. Count Symmetric Integers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-symmetric-integers) |
+| :white_check_mark: | 2894. Divisible and Non-divisible Sums Difference | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divisible-and-non-divisible-sums-difference) |
 | :white_check_mark: | 2942. Find Words Containing Character | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-words-containing-character) |
 | :white_check_mark: | 3024. Type of Triangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/type-of-triangle) |
 | :white_check_mark: | 3264. Final Array State After K Multiplication Operations I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-array-state-after-k-multiplication-operations-i) |
