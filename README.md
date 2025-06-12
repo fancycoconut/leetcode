@@ -194,4 +194,5 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2942. Find Words Containing Character | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-words-containing-character) |
 | :white_check_mark: | 3024. Type of Triangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/type-of-triangle) |
 | :white_check_mark: | 3264. Final Array State After K Multiplication Operations I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-array-state-after-k-multiplication-operations-i) |
+| :white_check_mark: | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | :white_check_mark: | 3452. Sum of Good Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sum-of-good-numbers) |
