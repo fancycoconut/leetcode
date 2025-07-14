@@ -59,6 +59,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 67. Add Binary | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-binary) |
 | :white_check_mark: | 69. Sqrt(x) | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sqrtx) |
 | :white_check_mark: | 70. Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/climbing-stairs) |
+| :white_check_mark: | 73. Set Matrix Zeroes | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/set-matrix-zeroes) |
 | :white_check_mark: | 74. Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | 75. Sort Colors | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sort-colors) |
 | :white_check_mark: | 76. Minimum Window Substring | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-window-substring) |
