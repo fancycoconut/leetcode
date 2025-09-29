@@ -186,6 +186,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2206. Divide Array Into Equal Pairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-array-into-equal-pairs) |
 | :white_check_mark: | 2215. Find the Difference of Two Arrays | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-difference-of-two-arrays) |
 | :white_check_mark: | 2235. Add Two Integers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-two-integers) |
+| :white_check_mark: | 2264. Largest 3-Same-Digit Number in String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/largest-3-same-digit-number-in-string) |
 | :white_check_mark: | 2315. Count Asterisks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-asterisks) |
 | :white_check_mark: | 2336. Smallest Number in Infinite Set | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/smallest-number-in-infinite-set) |
 | :white_check_mark: | 2401. Longest Nice Subarray | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-nice-subarray) |
