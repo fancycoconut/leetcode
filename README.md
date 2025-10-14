@@ -178,6 +178,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1876. Substrings of Size Three with Distinct Characters | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/substrings-of-size-three-with-distinct-characters) |
 | :white_check_mark: | 1910. Remove All Occurrences of a Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-occurrences-of-a-substring) |
 | :white_check_mark: | 1920. Build Array from Permutation | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/build-array-from-permutation) |
+| :white_check_mark: | 1991. Find the Middle Index in Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-middle-index-in-array) |
 | :white_check_mark: | 2016. Maximum Difference Between Increasing Elements | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-difference-between-increasing-elements) |
 | :white_check_mark: | 2094. Finding 3-Digit Even Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/finding-3-digit-even-numbers) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
