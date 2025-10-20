@@ -22,6 +22,7 @@
 | :white_check_mark: | Two Sum II - Input Array Is Sorted | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-ii-input-array-is-sorted) |
 | :white_check_mark: | 3Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/3sum) |
 | :white_check_mark: | Container With Most Water | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/container-with-most-water) |
+| :white_check_mark: | Trapping Rain Water | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/trapping-rain-water) |
 
 ## Sliding Window
 
