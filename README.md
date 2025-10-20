@@ -45,6 +45,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 39. Combination Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum) |
 | :white_check_mark: | 40. Combination Sum II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combination-sum-ii) |
 | :white_check_mark: | 41. First Missing Positive | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/first-missing-positive) |
+| :white_check_mark: | 42. Trapping Rain Water | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/trapping-rain-water) |
 | :white_check_mark: | 46. Permutations | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutations) |
 | :white_check_mark: | 49. Group Anagrams | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/group-anagrams) |
 | :white_check_mark: | 50. Pow(x, n) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/powx-n) |
