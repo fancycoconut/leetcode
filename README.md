@@ -202,6 +202,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2336. Smallest Number in Infinite Set | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/smallest-number-in-infinite-set) |
 | :white_check_mark: | 2401. Longest Nice Subarray | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-nice-subarray) |
 | :white_check_mark: | 2570. Merge Two 2D Arrays by Summing Values | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-two-2d-arrays-by-summing-values) |
+| :white_check_mark: | 2648. Generate Fibonacci Sequence | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/generate-fibonacci-sequence) |
 | :white_check_mark: | 2667. Create Hello World Function | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/create-hello-world-function) |
 | :white_check_mark: | 2703. Return Length of Arguments Passed | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/return-length-of-arguments-passed) |
 | :white_check_mark: | 2796. Repeat String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/repeat-string) |
