@@ -189,6 +189,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1991. Find the Middle Index in Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-middle-index-in-array) |
 | :white_check_mark: | 2011. Final Value of Variable After Performing Operations | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-value-of-variable-after-performing-operations) |
 | :white_check_mark: | 2016. Maximum Difference Between Increasing Elements | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-difference-between-increasing-elements) |
+| :white_check_mark: | 2043. Simple Bank System | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/simple-bank-system) |
 | :white_check_mark: | 2094. Finding 3-Digit Even Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/finding-3-digit-even-numbers) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
 | :white_check_mark: | 2133. Check if Every Row and Column Contains All Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-every-row-and-column-contains-all-numbers) |
