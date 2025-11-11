@@ -162,6 +162,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 724. Find Pivot Index | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-pivot-index) |
 | :white_check_mark: | 746. Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
 | :white_check_mark: | 747. Largest Number At Least Twice of Others | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/largest-number-at-least-twice-of-others) |
+| :white_check_mark: | 821. Shortest Distance to a Character | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/shortest-distance-to-a-character) |
 | :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
 | :white_check_mark: | 876. Middle of the Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/middle-of-the-linked-list) |
 | :white_check_mark: | 933. Number of Recent Calls | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-recent-calls) |
