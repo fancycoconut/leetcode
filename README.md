@@ -150,6 +150,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 424. Longest Repeating Character Replacement | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-repeating-character-replacement) |
 | :white_check_mark: | 442. Find All Duplicates in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-duplicates-in-an-array) |
 | :white_check_mark: | 487. Max Consecutive Ones II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-consecutive-ones-ii) |
+| :white_check_mark: | 496. Next Greater Element I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/next-greater-element-i) |
 | :white_check_mark: | 498. Diagonal Traverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/diagonal-traverse) |
 | :white_check_mark: | 509. Fibonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/fibonacci-number) |
 | :white_check_mark: | 567. Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
