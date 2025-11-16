@@ -161,6 +161,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 703. Kth Largest Element in a Stream | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-a-stream) |
 | :white_check_mark: | 704. Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | 724. Find Pivot Index | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-pivot-index) |
+| :white_check_mark: | 739. Daily Temperatures | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/daily-temperatures) |
 | :white_check_mark: | 746. Min Cost Climbing Stairs | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-cost-climbing-stairs) |
 | :white_check_mark: | 747. Largest Number At Least Twice of Others | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/largest-number-at-least-twice-of-others) |
 | :white_check_mark: | 821. Shortest Distance to a Character | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/shortest-distance-to-a-character) |
