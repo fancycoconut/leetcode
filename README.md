@@ -133,6 +133,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 295. Find Median from Data Stream | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-median-from-data-stream) |
 | :white_check_mark: | 303. Range Sum Query - Immutable | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/range-sum-query-immutable) |
 | :white_check_mark: | 326. Power of Three | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-three) |
+| :white_check_mark: | 338. Counting Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-bits) |
 | :white_check_mark: | 342. Power of Four | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-four) |
 | :white_check_mark: | 344. Reverse String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-string) |
 | :white_check_mark: | 345. Reverse Vowels of a String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-vowels-of-a-string) |
