@@ -99,6 +99,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 175. Combine Two Tables | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combine-two-tables) |
 | :white_check_mark: | 181. Employees Earning More Than Their Managers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/employees-earning-more-than-their-managers) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
+| :white_check_mark: | 190. Reverse Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-bits) |
 | :white_check_mark: | 197. Rising Temperature | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rising-temperature) |
 | :white_check_mark: | 198. House Robber | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber) |
 | :white_check_mark: | 200. Number of Islands | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-islands) |
