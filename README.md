@@ -76,6 +76,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
 | :white_check_mark: | 112. Path Sum | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/path-sum) |
 | :white_check_mark: | 118. Pascal's Triangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/pascals-triangle) |
+| :white_check_mark: | 119. Pascal's Triangle II | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/pascals-triangle-ii) |
 | :white_check_mark: | 121. Best Time to Buy and Sell Stock | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/best-time-to-buy-and-sell-stock) |
 | :white_check_mark: | 125. Valid Palindrome | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-palindrome) |
 | :white_check_mark: | 128. Longest Consecutive Sequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-consecutive-sequence) |
