@@ -51,7 +51,9 @@
 | :white_check_mark: | Binary Search | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search) |
 | :white_check_mark: | Search a 2D Matrix | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-a-2d-matrix) |
 | :white_check_mark: | Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
+| :white_check_mark: | Search in Rotated Sorted Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/search-in-rotated-sorted-array) |
 | :white_check_mark: | Median of Two Sorted Arrays | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/median-of-two-sorted-arrays) |
+
 
 ## Linked list
 
