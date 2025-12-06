@@ -92,6 +92,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 146. LRU Cache | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lru-cache) |
 | :white_check_mark: | 150. Evaluate Reverse Polish Notation | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/evaluate-reverse-polish-notation) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
+| :white_check_mark: | 153. Find Minimum in Rotated Sorted Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) |
 | :white_check_mark: | 155. Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
 | :white_check_mark: | 157. Read N Characters Given Read4 | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/read-n-characters-given-read4) |
 | :white_check_mark: | 160. Intersection of Two Linked Lists | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/intersection-of-two-linked-lists) |
