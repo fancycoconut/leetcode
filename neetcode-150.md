@@ -143,6 +143,7 @@
 | ------ | ------- | ---------- | ------ |
 | :white_check_mark: | Insert Interval | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/insert-intervals) |
 | :white_check_mark: | Merge Intervals | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-intervals) |
+| :white_check_mark: | Meeting Rooms | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/meeting-rooms) |
 
 ## Math & Geometry
 
