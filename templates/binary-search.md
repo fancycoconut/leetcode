@@ -2,7 +2,9 @@
 
 Complexity: O log N
 
-## Python
+## General Technique
+
+### Python
 
 ```python
 def binarySearch(nums: List[int], target: int) -> int
@@ -19,7 +21,7 @@ def binarySearch(nums: List[int], target: int) -> int
   return left
 ```
 
-## C#
+### C#
 
 ```c#
 int BinarySearch(int[] nums)
