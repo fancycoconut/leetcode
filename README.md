@@ -90,6 +90,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 144. Binary Tree Preorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-preorder-traversal) |
 | :white_check_mark: | 145. Binary Tree Postorder Traversal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-postorder-traversal) |
 | :white_check_mark: | 146. LRU Cache | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lru-cache) |
+| :white_check_mark: | 148. Sort List | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sort-list) |
 | :white_check_mark: | 150. Evaluate Reverse Polish Notation | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/evaluate-reverse-polish-notation) |
 | :white_check_mark: | 151. Reverse Words in a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string) |
 | :white_check_mark: | 153. Find Minimum in Rotated Sorted Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-minimum-in-rotated-sorted-array) |
