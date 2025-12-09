@@ -124,6 +124,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 232. Implement Queue using Stacks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-queue-using-stacks) |
 | :white_check_mark: | 234. Palindrome Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/palindrome-linked-list) |
 | :white_check_mark: | 235. Lowest Common Ancestor of a Binary Search Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) |
+| :white_check_mark: | 236. Lowest Common Ancestor of a Binary Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-tree) |
 | :white_check_mark: | 238. Product of Array Except Self | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/product-of-array-except-self) |
 | :white_check_mark: | 239. Sliding Window Maximum | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sliding-window-maximum) |
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
