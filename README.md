@@ -166,6 +166,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 498. Diagonal Traverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/diagonal-traverse) |
 | :white_check_mark: | 507. Perfect Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/perfect-number) |
 | :white_check_mark: | 509. Fibonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/fibonacci-number) |
+| :white_check_mark: | 543. Diameter of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/diameter-of-binary-tree) |
 | :white_check_mark: | 557. Reverse Words in a String III | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string-iii) |
 | :white_check_mark: | 567. Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
 | :white_check_mark: | 607. Sales Person | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sales-person) |
