@@ -183,6 +183,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 875. Koko Eating Bananas | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/koko-eating-bananas) |
 | :white_check_mark: | 876. Middle of the Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/middle-of-the-linked-list) |
 | :white_check_mark: | 933. Number of Recent Calls | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-recent-calls) |
+| :white_check_mark: | 977. Squares of a Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/squares-of-a-sorted-array) |
 | :white_check_mark: | 1046. Last Stone Weight | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/last-stone-weight) |
 | :white_check_mark: | 1047. Remove All Adjacent Duplicates In String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) |
 | :white_check_mark: | 1137. N-th Tribonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/n-th-tribonacci-number) |
