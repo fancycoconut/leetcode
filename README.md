@@ -76,6 +76,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 90. Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
 | :white_check_mark: | 100. Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
 | :white_check_mark: | 104. Maximum Depth of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-depth-of-binary-tree) |
+| :white_check_mark: | 110. Balanced Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/balanced-binary-tree) |
 | :white_check_mark: | 112. Path Sum | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/path-sum) |
 | :white_check_mark: | 118. Pascal's Triangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/pascals-triangle) |
 | :white_check_mark: | 119. Pascal's Triangle II | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/pascals-triangle-ii) |
