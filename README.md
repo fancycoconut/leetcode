@@ -246,4 +246,5 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 3442. Maximum Difference Between Even and Odd Frequency I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-difference-between-even-and-odd-frequency-i) |
 | :white_check_mark: | 3452. Sum of Good Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sum-of-good-numbers) |
 | :white_check_mark: | 3461. Check If Digits Are Equal in String After Operations I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-digits-are-equal-in-string-after-operations-i) |
+| :white_check_mark: | 3606. Coupon Code Validator | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/coupon-code-validator) |
 | :white_check_mark: | 3683. Earliest Time to Finish One Task | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/earliest-time-to-finish-one-task) |
