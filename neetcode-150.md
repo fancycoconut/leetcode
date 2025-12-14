@@ -83,6 +83,7 @@
 | :white_check_mark: | Same Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/same-tree) |
 | :white_check_mark: | Subtree of Another Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subtree-of-another-tree) |
 | :white_check_mark: | Lowest Common Ancestor of a Binary Search Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/lowest-common-ancestor-of-a-binary-search-tree) |
+| :white_check_mark: | Validate Binary Search Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/validate-binary-search-tree) |
 
 ## Heap / Priority Queue
 
