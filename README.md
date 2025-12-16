@@ -168,6 +168,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 487. Max Consecutive Ones II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-consecutive-ones-ii) |
 | :white_check_mark: | 496. Next Greater Element I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/next-greater-element-i) |
 | :white_check_mark: | 498. Diagonal Traverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/diagonal-traverse) |
+| :white_check_mark: | 503. Next Greater Element II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/next-greater-element-ii) |
 | :white_check_mark: | 507. Perfect Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/perfect-number) |
 | :white_check_mark: | 509. Fibonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/fibonacci-number) |
 | :white_check_mark: | 543. Diameter of Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/diameter-of-binary-tree) |
