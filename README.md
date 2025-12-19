@@ -138,6 +138,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 281. Zigzag Iterator | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/zigzag-iterator) |
 | :white_check_mark: | 283. Move Zeroes | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/move-zeroes) |
 | :white_check_mark: | 284. Peeking Iterator | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/peeking-iterator) |
+| :white_check_mark: | 286. Walls and Gates | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/walls-and-gates) |
 | :white_check_mark: | 287. Find the Duplicate Number | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-the-duplicate-number) |
 | :white_check_mark: | 289. Game of Life | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/game-of-life) |
 | :white_check_mark: | 290. Word Pattern | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-pattern) |
