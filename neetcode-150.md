@@ -121,6 +121,7 @@
 | :white_check_mark: | Max Area of Island | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-area-of-island) |
 | :white_check_mark: | Clone Graph | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/clone-graph) |
 | :white_check_mark: | Walls and Gates | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/walls-and-gates) |
+| :white_check_mark: | Rotting Oranges | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotting-oranges) |
 
 ## 1-D Dynamic Programming
 
