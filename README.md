@@ -125,6 +125,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 225. Implement Stack using Queues | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-stack-using-queues) |
 | :white_check_mark: | 226. Invert Binary Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/invert-binary-tree) |
 | :white_check_mark: | 228. Summary Ranges | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/summary-ranges) |
+| :white_check_mark: | 229. Majority Element II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element-ii) |
 | :white_check_mark: | 231. Power of Two | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-two) |
 | :white_check_mark: | 232. Implement Queue using Stacks | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-queue-using-stacks) |
 | :white_check_mark: | 234. Palindrome Linked List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/palindrome-linked-list) |
