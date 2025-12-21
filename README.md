@@ -134,6 +134,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 242. Valid Anagram | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-anagram) |
 | :white_check_mark: | 251. Flatten 2D Vector | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/flatten-2d-vector) |
 | :white_check_mark: | 252. Meeting Rooms | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/meeting-rooms) |
+| :white_check_mark: | 2253. Meeting Rooms II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/meeting-rooms-ii) |
 | :white_check_mark: | 271. Encode and Decode Strings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/encode-and-decode-strings) |
 | :white_check_mark: | 281. Zigzag Iterator | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/zigzag-iterator) |
 | :white_check_mark: | 283. Move Zeroes | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/move-zeroes) |
