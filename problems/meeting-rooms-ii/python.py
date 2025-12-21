@@ -6,6 +6,8 @@ class Solution:
         res, count = 0, 0
         i, j = 0, 0
         while i < len(startIntervals):
+            # check the start time against the end time to see if there is a meeting already in progress
+            # if there is then a new room is needed otherwise we can reuse the same room
             if startIntervals[i] < endIntervals[j]:
                 i += 1
                 count += 1
