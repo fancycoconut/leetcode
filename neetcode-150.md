@@ -86,6 +86,7 @@
 | :white_check_mark: | Binary Tree Level Order Traversal | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-level-order-traversal) |
 | :white_check_mark: | Binary Tree Right Side View | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-tree-right-side-view) |
 | :white_check_mark: | Validate Binary Search Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/validate-binary-search-tree) |
+| :white_check_mark: | Kth Smallest Element in a BST | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-smallest-element-in-a-bst) |
 
 ## Heap / Priority Queue
 
