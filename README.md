@@ -71,7 +71,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 76. Minimum Window Substring | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-window-substring) |
 | :white_check_mark: | 77. Combinations | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combinations) |
 | :white_check_mark: | 78. Subsets | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets) |
-| :construction: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
+| :white_check_mark: | 79. Word Search | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-search) |
 | :white_check_mark: | 83. Remove Duplicates from Sorted List | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-duplicates-from-sorted-list) |
 | :white_check_mark: | 88. Merge Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-sorted-array) |
 | :white_check_mark: | 90. Subsets II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subsets-ii) |
