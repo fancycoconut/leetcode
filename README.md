@@ -183,6 +183,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 567. Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
 | :white_check_mark: | 572. Subtree of Another Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subtree-of-another-tree) |
 | :white_check_mark: | 607. Sales Person | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sales-person) |
+| :white_check_mark: | 621. Task Scheduler | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/task-scheduler) |
 | :white_check_mark: | 643. Maximum Average Subarray I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-average-subarray-i) |
 | :white_check_mark: | 692. Top K Frequent Words | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-words) |
 | :white_check_mark: | 695. Max Area of Island | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-area-of-island) |
