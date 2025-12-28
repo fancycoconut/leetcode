@@ -171,6 +171,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 415. Add Strings | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/add-strings) |
 | :white_check_mark: | 424. Longest Repeating Character Replacement | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-repeating-character-replacement) |
 | :white_check_mark: | 442. Find All Duplicates in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-duplicates-in-an-array) |
+| :white_check_mark: | 449. Serialize and Deserialize BST | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/serialize-and-deserialize-bst) |
 | :white_check_mark: | 485. Max Consecutive Ones | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-consecutive-ones) |
 | :white_check_mark: | 487. Max Consecutive Ones II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/max-consecutive-ones-ii) |
 | :white_check_mark: | 496. Next Greater Element I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/next-greater-element-i) |
