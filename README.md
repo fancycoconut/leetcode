@@ -211,6 +211,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1290. Convert Binary Number in a Linked List to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer) |
 | :white_check_mark: | 1295. Find Numbers with Even Number of Digits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-numbers-with-even-number-of-digits) |
 | :white_check_mark: | 1346. Check If N and Its Double Exist | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-n-and-its-double-exist) |
+| :white_check_mark: | 1351. Count Negative Numbers in a Sorted Matrix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-negative-numbers-in-a-sorted-matrix) |
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
