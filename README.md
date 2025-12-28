@@ -206,6 +206,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1137. N-th Tribonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/n-th-tribonacci-number) |
 | :white_check_mark: | 1154. Day of the Year | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/day-of-the-year) |
 | :white_check_mark: | 1160. Find Words That Can Be Formed by Characters | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-words-that-can-be-formed-by-characters) |
+| :white_check_mark: | 1166. Design File System | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-file-system) |
 | :white_check_mark: | 1207. Unique Number of Occurrences | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/unique-number-of-occurrences) |
 | :white_check_mark: | 1265. Print Immutable Linked List in Reverse | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/print-immutable-linked-list-in-reverse) |
 | :white_check_mark: | 1290. Convert Binary Number in a Linked List to Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/convert-binary-number-in-a-linked-list-to-integer) |
