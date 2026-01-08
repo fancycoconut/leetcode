@@ -217,6 +217,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1351. Count Negative Numbers in a Sorted Matrix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-negative-numbers-in-a-sorted-matrix) |
 | :white_check_mark: | 1408. String Matching in an Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/string-matching-in-an-array) |
 | :white_check_mark: | 1431. Kids With the Greatest Number of Candies | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kids-with-the-greatest-number-of-candies) |
+| :white_check_mark: | 1448. Count Good Nodes in Binary Tree | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-good-nodes-in-binary-tree) |
 | :white_check_mark: | 1475. Final Prices With a Special Discount in a Shop | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-prices-with-a-special-discount-in-a-shop) |
 | :white_check_mark: | 1513. Number of Substrings With Only 1s | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-substrings-with-only-1s) |
 | :white_check_mark: | 1523. Count Odd Numbers in an Interval Range | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-odd-numbers-in-an-interval-range) |
