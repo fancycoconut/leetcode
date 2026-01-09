@@ -129,6 +129,7 @@
 | :white_check_mark: | Walls and Gates | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/walls-and-gates) |
 | :white_check_mark: | Rotting Oranges | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotting-oranges) |
 | :white_check_mark: | Course Schedule | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/course-schedule) |
+| :white_check_mark: | Course Schedule II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/course-schedule-ii) |
 
 ## 1-D Dynamic Programming
 
