@@ -122,6 +122,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 207. Course Schedule | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/course-schedule) |
 | :white_check_mark: | 208. Implement Trie (Prefix Tree) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/implement-trie-prefix-tree) |
 | :white_check_mark: | 209. Minimum Size Subarray Sum | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/minimum-size-subarray-sum) |
+| :white_check_mark: | 210. Course Schedule II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/course-schedule-ii) |
 | :white_check_mark: | 213. House Robber II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber-ii) |
 | :white_check_mark: | 215. Kth Largest Element in an Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/kth-largest-element-in-an-array) |
 | :white_check_mark: | 217. Contains Duplicate | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/contains-duplicate) |
