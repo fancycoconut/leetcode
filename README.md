@@ -238,6 +238,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 2043. Simple Bank System | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/simple-bank-system) |
 | :white_check_mark: | 2094. Finding 3-Digit Even Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/finding-3-digit-even-numbers) |
 | :white_check_mark: | 2109. Adding Spaces to a String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/adding-spaces-to-a-string) |
+| :white_check_mark: | 2115. Find All Possible Recipes from Given Supplies | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-all-possible-recipes-from-given-supplies) |
 | :white_check_mark: | 2133. Check if Every Row and Column Contains All Numbers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-every-row-and-column-contains-all-numbers) |
 | :white_check_mark: | 2138. Divide a String Into Groups of Size k | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/divide-a-string-into-groups-of-size-k) |
 | :white_check_mark: | 2154. Keep Multiplying Found Values by Two | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/keep-multiplying-found-values-by-two) |
