@@ -23,7 +23,7 @@ class Solution:
             visited.remove(course)
             courseMap[course] = []
 
-            if course not in output:
+            if course not in uniqueOutput:
                 output.append(course)
                 uniqueOutput.add(course)
             return True
