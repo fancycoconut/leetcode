@@ -1,4 +1,5 @@
 class Solution:
+    # This is basically topological sort
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         courseMap = { course:[] for course in range(numCourses) }
         for course,prereq in prerequisites:
