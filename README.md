@@ -153,6 +153,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 289. Game of Life | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/game-of-life) |
 | :white_check_mark: | 290. Word Pattern | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/word-pattern) |
 | :white_check_mark: | 295. Find Median from Data Stream | :heart: Hard | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/find-median-from-data-stream) |
+| :white_check_mark: | 300. Longest Increasing Subsequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-increasing-subsequence) |
 | :white_check_mark: | 303. Range Sum Query - Immutable | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/range-sum-query-immutable) |
 | :white_check_mark: | 326. Power of Three | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/power-of-three) |
 | :white_check_mark: | 338. Counting Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-bits) |
