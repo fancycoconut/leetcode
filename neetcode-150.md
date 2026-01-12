@@ -140,6 +140,7 @@
 | :white_check_mark: | House Robber | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber) |
 | :white_check_mark: | House Robber II | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/house-robber-ii) |
 | :construction: | Longest Palindromic Substring | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-palindromic-substring) |
+| :white_check_mark: | Longest Increasing Subsequence | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/longest-increasing-subsequence) |
 
 ## 2-D Dynamic Programming
 
