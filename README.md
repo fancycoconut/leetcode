@@ -162,7 +162,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 346. Moving Average from Data Stream | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/moving-average-from-data-stream) |
 | :white_check_mark: | 347. Top K Frequent Elements | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/top-k-frequent-elements) |
 | :white_check_mark: | 348. Design Tic-Tac-Toe | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-tic-tac-toe) |
-| :construction: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
+| :white_check_mark: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
 | :white_check_mark: | 355. Design Twitter | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-twitter) |
 | :white_check_mark: | 359. Logger Rate Limiter | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/logger-rate-limiter) |
 | :white_check_mark: | 374. Guess Number Higher or Lower | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/guess-number-higher-or-lower) |
