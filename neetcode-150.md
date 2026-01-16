@@ -181,4 +181,5 @@
 | :white_check_mark: | Number of 1 Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-1-bits) |
 | :white_check_mark: | Counting Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/counting-bits) |
 | :white_check_mark: | Reverse Bits | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-bits) |
+| :white_check_mark: | Missing Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/missing-number) |
 | :white_check_mark: | Reverse Integer | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/single-number) |
