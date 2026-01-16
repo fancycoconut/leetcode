@@ -190,6 +190,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 557. Reverse Words in a String III | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/reverse-words-in-a-string-iii) |
 | :white_check_mark: | 567. Permutation in String | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/permutation-in-string) |
 | :white_check_mark: | 572. Subtree of Another Tree | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/subtree-of-another-tree) |
+| :white_check_mark: | 605. Can Place Flowers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/can-place-flowers) |
 | :white_check_mark: | 607. Sales Person | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/sales-person) |
 | :white_check_mark: | 621. Task Scheduler | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/task-scheduler) |
 | :white_check_mark: | 643. Maximum Average Subarray I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-average-subarray-i) |
