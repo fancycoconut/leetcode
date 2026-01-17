@@ -43,6 +43,7 @@
 | :white_check_mark: | Min Stack | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/min-stack) |
 | :white_check_mark: | Evaluate Reverse Polish Notation | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/evaluate-reverse-polish-notation) |
 | :white_check_mark: | Daily Temperatures | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/daily-temperatures) |
+| :white_check_mark: | Car Fleet | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/car-fleet) |
 
 ## Binary Search
 
