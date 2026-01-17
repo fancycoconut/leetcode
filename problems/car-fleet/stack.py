@@ -5,8 +5,8 @@ class Solution:
         
         stack = []
         for pos, spd in speedPositionPairs:
-            timeToTarget = (target - pos) / spd
-            stack.append(timeToTarget)
+            finishTime = (target - pos) / spd
+            stack.append(finishTime)
 
             if len(stack) >= 2 and stack[-1] <= stack[-2]:
                 stack.pop()
