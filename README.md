@@ -109,6 +109,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 169. Majority Element | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/majority-element) |
 | :white_check_mark: | 170. Two Sum III - Data structure design | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/two-sum-iii-data-structure-design) |
 | :white_check_mark: | 171. Excel Sheet Column Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/excel-sheet-column-number) |
+| :white_check_mark: | 173. Binary Search Tree Iterator | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/binary-search-tree-iterator) |
 | :white_check_mark: | 175. Combine Two Tables | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/combine-two-tables) |
 | :white_check_mark: | 181. Employees Earning More Than Their Managers | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/employees-earning-more-than-their-managers) |
 | :white_check_mark: | 189. Rotate Array | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotate-array) |
