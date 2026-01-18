@@ -171,6 +171,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 353. Design Snake Game | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-snake-game) |
 | :white_check_mark: | 355. Design Twitter | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-twitter) |
 | :white_check_mark: | 359. Logger Rate Limiter | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/logger-rate-limiter) |
+| :white_check_mark: | 362. Design Hit Counter | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/design-hit-counter) |
 | :white_check_mark: | 374. Guess Number Higher or Lower | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/guess-number-higher-or-lower) |
 | :white_check_mark: | 380. Insert Delete GetRandom O(1) | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/insert-delete-getrandom-o1) |
 | :white_check_mark: | 383. Ransom Note | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/ransom-note) |
