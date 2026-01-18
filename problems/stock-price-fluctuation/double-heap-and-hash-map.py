@@ -18,6 +18,8 @@ class StockPrice:
 
     def maximum(self) -> int:
         price, timestamp = self.maxPrices[0]
+
+        # If the price from the heap doesn't match the price the timestamp indicates, keep popping from the heap
         while -price != self.priceMap[timestamp]:
             heapq.heappop(self.maxPrices)
             price, timestamp = self.maxPrices[0]
@@ -25,6 +27,8 @@ class StockPrice:
 
     def minimum(self) -> int:
         price, timestamp = self.minPrices[0]
+
+        # If the price from the heap doesn't match the price the timestamp indicates, keep popping from the heap
         while price != self.priceMap[timestamp]:
             heapq.heappop(self.minPrices)
             price, timestamp = self.minPrices[0]
