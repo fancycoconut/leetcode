@@ -4,10 +4,7 @@ class Solution:
         availableTimes2 = sorted(slots2, key=lambda interval: interval[0])
 
         i, j = 0, 0
-        while True:
-            if i >= len(availableTimes1) or j >= len(availableTimes2):
-                return []
-            
+        while i < len(availableTimes1) and j < len(availableTimes2):
             int1 = availableTimes1[i]
             int2 = availableTimes2[j]
 
