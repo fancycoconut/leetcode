@@ -279,6 +279,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 3000. Maximum Area of Longest Diagonal Rectangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-area-of-longest-diagonal-rectangle) |
 | :white_check_mark: | 3024. Type of Triangle | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/type-of-triangle) |
 | :white_check_mark: | 3136. Valid Word | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/valid-word) |
+| :white_check_mark: | 3169. Count Days Without Meetings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-days-without-meetings) |
 | :white_check_mark: | 3264. Final Array State After K Multiplication Operations I | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/final-array-state-after-k-multiplication-operations-i) |
 | :white_check_mark: | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | :white_check_mark: | 3432. Count Partitions with Even Sum Difference | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-partitions-with-even-sum-difference) |
