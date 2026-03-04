@@ -237,6 +237,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 1513. Number of Substrings With Only 1s | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/number-of-substrings-with-only-1s) |
 | :white_check_mark: | 1523. Count Odd Numbers in an Interval Range | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-odd-numbers-in-an-interval-range) |
 | :white_check_mark: | 1550. Three Consecutive Odds | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/three-consecutive-odds) |
+| :white_check_mark: | 1582. Special Positions in a Binary Matrix | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/special-positions-in-a-binary-matrix) |
 | :white_check_mark: | 1668. Maximum Repeating Substring | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/maximum-repeating-substring) |
 | :white_check_mark: | 1768. Merge Strings Alternately | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/merge-strings-alternately) |
 | :white_check_mark: | 1790. Check if One String Swap Can Make Strings Equal | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/check-if-one-string-swap-can-make-strings-equal) |
