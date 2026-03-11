@@ -217,6 +217,7 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 973. K Closest Points to Origin | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/k-closest-points-to-origin) |
 | :white_check_mark: | 977. Squares of a Sorted Array | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/squares-of-a-sorted-array) |
 | :white_check_mark: | 994. Rotting Oranges | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/rotting-oranges) |
+| :white_check_mark: | 1009. Complement of Base 10 Integer | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/complement-of-base-10-integer) |
 | :white_check_mark: | 1046. Last Stone Weight | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/last-stone-weight) |
 | :white_check_mark: | 1047. Remove All Adjacent Duplicates In String | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/remove-all-adjacent-duplicates-in-string) |
 | :white_check_mark: | 1137. N-th Tribonacci Number | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/n-th-tribonacci-number) |
