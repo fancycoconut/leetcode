@@ -291,3 +291,4 @@ Solved leetcode problems and solutions.
 | :white_check_mark: | 3531. Count Covered Buildings | :yellow_heart: Medium | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/count-covered-buildings) |
 | :white_check_mark: | 3606. Coupon Code Validator | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/coupon-code-validator) |
 | :white_check_mark: | 3683. Earliest Time to Finish One Task | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/earliest-time-to-finish-one-task) |
+| :white_check_mark: | 3838. Weighted Word Mapping | :green_heart: Easy | [:link:](https://github.com/fancycoconut/leetcode/tree/master/problems/weighted-word-mapping) |
